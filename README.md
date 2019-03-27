@@ -1,0 +1,3 @@
+# ChildrenCode
+lidt sjov børne kode...
+og en undskyldning for at vise og forklare dem hvordan en computer / et program virker, på meget simpelt måde
